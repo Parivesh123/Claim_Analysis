@@ -1,0 +1,849 @@
+Policy_No,LA_OCCUPATION,LA_SUB_OCCUPATION,LA_Income
+488338,NULL,NULL,8338449
+832796,Retired/Pensioner,Admin/Clerk/Govt dept,7921101
+598957,Retired/Pensioner,Admin/Clerk/Govt dept,6045463
+180367,Retired/Pensioner,Admin/Clerk/Govt dept,4789404
+249279,Retired/Pensioner,Admin/Clerk/Govt dept,3655528
+570825,Retired/Pensioner,Admin/Clerk/Govt dept,2017631
+364487,Retired/Pensioner,Admin/Clerk/Govt dept,2961415
+451031,Retired/Pensioner,Admin/Clerk/Govt dept,5561117
+862624,Retired/Pensioner,Admin/Clerk/Govt dept,9967597
+831013,Retired/Pensioner,Admin/Clerk/Govt dept,1466715
+719542,Retired/Pensioner,Admin/Clerk/Govt dept,2583187
+783949,Retired/Pensioner,Admin/Clerk/Govt dept,4158015
+187256,Retired/Pensioner,Admin/Clerk/Govt dept,6241823
+473481,Retired/Pensioner,Admin/Clerk/Govt dept,3846614
+650560,Retired/Pensioner,Admin/Clerk/Govt dept,7009343
+623754,Retired/Pensioner,Admin/Clerk/Govt dept,6143124
+990732,Retired/Pensioner,Admin/Clerk/Govt dept,7044386
+392604,Retired/Pensioner,Admin/Clerk/Govt dept,4195962
+797285,Retired/Pensioner,Admin/Clerk/Govt dept,9612999
+651721,Student,NULL,826190
+141067,Student,NULL,9577555
+388832,Student,NULL,4370222
+271335,Self Employed,Self Employed,8181170
+237731,Self Employed,Self Employed,7431743
+271255,Self Employed,Self Employed,39245
+226982,Self Employed,Self Employed,8843764
+291163,Self Employed,Self Employed,5477194
+295264,Self Employed,Self Employed,2777302
+541117,Self Employed,Self Employed,6136356
+821728,Self Employed,Self Employed,9910039
+991313,Self Employed,Self Employed,6697884
+149666,Self Employed,Self Employed,2533160
+582343,Self Employed,Self Employed,3553342
+158785,Self Employed,Self Employed,4295607
+814222,Self Employed,Self Employed,9109624
+846646,Self Employed,Self Employed,3965687
+608961,Self Employed,Self Employed,8759749
+716139,Self Employed,Self Employed,1837563
+967276,Self Employed,Self Employed,4388364
+765583,Self Employed,Self Employed,8154675
+117690,Self Employed,Self Employed,4601239
+430565,Professional,Doc/Lawyer/Teacher/Arch/Engr,91792
+743926,Self Employed,Self Employed,3349736
+738764,Self Employed,Self Employed,2060762
+474357,Unemployed,NULL,4487182
+395725,Self Employed,Self Employed,5490443
+644365,Self Employed,Self Employed,9835595
+145369,Self Employed,Self Employed,4882663
+427460,Self Employed,Self Employed,9687010
+160695,Self Employed,Self Employed,7609437
+672823,Self Employed,Self Employed,6352388
+255044,Self Employed,Self Employed,8680123
+243259,Self Employed,Self Employed,8822570
+495291,Self Employed,Self Employed,7538120
+148978,Self Employed,Self Employed,7346509
+342165,Self Employed,Self Employed,1659342
+683891,Self Employed,Self Employed,6474338
+547078,Salaried,Agriculture land lord only,9085695
+578648,Self Employed,Self Employed,5096768
+442574,Self Employed,Self Employed,7807677
+252023,Self Employed,Self Employed,2318954
+763144,Self Employed,Self Employed,9699253
+921763,Self Employed,Self Employed,1689506
+393970,Self Employed,Self Employed,1982898
+599957,Self Employed,Self Employed,4250387
+338220,Self Employed,Self Employed,5282240
+818050,Self Employed,Self Employed,3161150
+578864,Self Employed,Self Employed,7657089
+442903,Professional,Doc/Lawyer/Teacher/Arch/Engr,2770110
+425541,Self Employed,Self Employed,3217089
+964910,Self Employed,Self Employed,471205
+501763,Self Employed,Self Employed,3850317
+671695,Self Employed,Self Employed,9601737
+298267,Self Employed,Self Employed,9258276
+577736,Salaried,Agriculture land lord only,6886944
+233334,Self Employed,Self Employed,7943140
+107630,Self Employed,Self Employed,9200862
+971747,Self Employed,Self Employed,4897134
+327345,Self Employed,Self Employed,4040620
+281463,Self Employed,Self Employed,2726206
+909314,Self Employed,Self Employed,6771850
+142819,Self Employed,Self Employed,9485723
+798475,Self Employed,Self Employed,9014755
+292848,Self Employed,Self Employed,4643260
+183000,Self Employed,Self Employed,2332449
+850976,Self Employed,Self Employed,4237303
+351035,Self Employed,Self Employed,9675170
+438092,Self Employed,Self Employed,7939970
+578773,Professional,Doc/Lawyer/Teacher/Arch/Engr,2214785
+447931,Self Employed,Self Employed,1511817
+703992,Self Employed,Self Employed,5105987
+214138,Housewife,NULL,4454664
+612171,Self Employed,Self Employed,6111418
+894527,Self Employed,Self Employed,8379008
+833649,Self Employed,Self Employed,1957194
+465313,Self Employed,Self Employed,4683395
+608433,Self Employed,Self Employed,7413893
+994291,Self Employed,Self Employed,4882115
+468771,Self Employed,Self Employed,9864363
+926449,Professional,Doc/Lawyer/Teacher/Arch/Engr,5834233
+744812,Self Employed,Self Employed,6261718
+601559,Self Employed,Self Employed,5475561
+758853,Self Employed,Self Employed,5293317
+801414,Self Employed,Self Employed,2045093
+557039,Self Employed,Self Employed,2293760
+663380,Self Employed,Self Employed,4795487
+429052,Self Employed,Self Employed,2905629
+385404,Self Employed,Self Employed,1405679
+506567,Self Employed,Self Employed,2139996
+284088,Housewife,NULL,1121183
+910263,Self Employed,Self Employed,1165319
+148796,Self Employed,Self Employed,5211303
+643499,Self Employed,Self Employed,8770430
+416626,Self Employed,Self Employed,9674561
+316940,Self Employed,Self Employed,3959657
+770913,Self Employed,Self Employed,2485062
+358738,Self Employed,Self Employed,3687332
+372957,Self Employed,Self Employed,7266139
+255843,Self Employed,Self Employed,4429788
+975561,Self Employed,Self Employed,5745202
+716164,Self Employed,Self Employed,9201980
+265676,Self Employed,Self Employed,7586661
+815854,Self Employed,Self Employed,5602079
+953320,Self Employed,Self Employed,6334522
+997219,Self Employed,Self Employed,3038795
+227691,Self Employed,Self Employed,9393055
+423770,Self Employed,Self Employed,1665022
+560412,Self Employed,Self Employed,1530900
+641412,Salaried,Agriculture land lord only,1062344
+545344,Self Employed,Self Employed,5414579
+533095,Self Employed,Self Employed,4680150
+556265,Housewife,NULL,2524315
+291771,Self Employed,Self Employed,1578116
+139215,Self Employed,Self Employed,3005602
+810398,Self Employed,Self Employed,566413
+764200,Self Employed,Self Employed,7869312
+219082,Self Employed,Self Employed,3845420
+570882,Self Employed,Self Employed,652975
+186081,Self Employed,Self Employed,2668108
+468133,Self Employed,Self Employed,4213619
+236532,Self Employed,Self Employed,1147811
+353690,Self Employed,Self Employed,3692874
+409663,Self Employed,Self Employed,7986588
+951761,Housewife,NULL,1068107
+824105,Self Employed,Self Employed,6963911
+849602,Self Employed,Self Employed,8871262
+267696,Self Employed,Self Employed,8821524
+215451,Self Employed,Self Employed,2324204
+998650,Self Employed,Self Employed,5057510
+638744,Self Employed,Self Employed,6284214
+628540,Self Employed,Self Employed,9506807
+642433,Self Employed,Self Employed,4859250
+292405,Self Employed,Self Employed,5802052
+679294,Self Employed,Self Employed,4956431
+768650,Self Employed,Self Employed,697928
+663387,Self Employed,Self Employed,6913820
+899208,Self Employed,Self Employed,5271078
+756438,Self Employed,Self Employed,7872067
+600352,Self Employed,Self Employed,1512554
+124126,Self Employed,Self Employed,1705874
+336980,Self Employed,Self Employed,1980240
+431485,Housewife,NULL,5968043
+708675,Self Employed,Self Employed,1570118
+584527,Self Employed,Self Employed,1738905
+765320,Self Employed,Self Employed,8154053
+355054,Self Employed,Self Employed,1452162
+528355,Self Employed,Self Employed,9423340
+899354,Self Employed,Self Employed,4449790
+222128,Self Employed,Self Employed,9764580
+821836,Self Employed,Self Employed,4252923
+927812,Self Employed,Self Employed,3699840
+694713,Self Employed,Self Employed,3077562
+509110,Self Employed,Self Employed,5454344
+191147,Self Employed,Self Employed,2411714
+751457,Self Employed,Self Employed,1372286
+549085,Self Employed,Self Employed,5644546
+704229,Self Employed,Self Employed,7884398
+193412,Self Employed,Self Employed,5387173
+822226,Self Employed,Self Employed,5351867
+981966,Self Employed,Self Employed,2499552
+596375,Self Employed,Self Employed,7676826
+589128,Self Employed,Self Employed,324768
+238557,Self Employed,Self Employed,2765420
+860667,Housewife,NULL,6029937
+810339,Self Employed,Self Employed,5285520
+172524,Self Employed,Self Employed,8755893
+315342,Self Employed,Self Employed,633555
+114880,Self Employed,Self Employed,7158270
+399121,Self Employed,Self Employed,216851
+897564,Self Employed,Self Employed,3248947
+729471,Self Employed,Self Employed,1450790
+261940,Professional,Doc/Lawyer/Teacher/Arch/Engr,3993207
+229651,Self Employed,Self Employed,4697685
+442073,Self Employed,Self Employed,9149035
+717270,Self Employed,Self Employed,6941643
+161991,Self Employed,Self Employed,9414071
+885365,Self Employed,Self Employed,2157182
+760275,Self Employed,Self Employed,6124252
+759480,Self Employed,Self Employed,7409140
+597823,Self Employed,Self Employed,101278
+438665,Self Employed,Self Employed,1821395
+688948,Self Employed,Self Employed,2155204
+523757,Self Employed,Self Employed,2615663
+248026,Self Employed,Self Employed,9979154
+173169,Self Employed,Self Employed,2756735
+703594,Self Employed,Self Employed,7503486
+761263,Self Employed,Self Employed,8676612
+751003,Self Employed,Self Employed,4957010
+202924,Self Employed,Self Employed,5841859
+576792,Self Employed,Self Employed,9104660
+571030,Self Employed,Self Employed,328030
+235821,Self Employed,Self Employed,4601103
+447875,Salaried,Agriculture land lord only,556599
+331741,Self Employed,Self Employed,4213748
+763061,Self Employed,Self Employed,1188283
+627418,Self Employed,Self Employed,5786375
+691138,Self Employed,Self Employed,5891370
+235672,Self Employed,Self Employed,1505736
+495075,Self Employed,Self Employed,8657076
+215912,Self Employed,Self Employed,5785977
+252482,Self Employed,Self Employed,8418750
+175799,Self Employed,Self Employed,8068883
+468953,Self Employed,Self Employed,3367889
+216270,Self Employed,Self Employed,8962234
+782027,Self Employed,Self Employed,2591447
+221619,Self Employed,Self Employed,7688725
+348124,Self Employed,Self Employed,9405036
+502524,Self Employed,Self Employed,889915
+304689,Self Employed,Self Employed,2303622
+430462,Self Employed,Self Employed,4958830
+556595,Self Employed,Self Employed,3153655
+420194,Self Employed,Self Employed,4979289
+678323,Self Employed,Self Employed,6071640
+791671,Self Employed,Self Employed,8540164
+367210,Self Employed,Self Employed,2749024
+331619,Salaried,Agriculture land lord only,4381918
+495914,Self Employed,Self Employed,6684794
+556735,Self Employed,Self Employed,5811495
+328098,Self Employed,Self Employed,5921191
+427056,Self Employed,Self Employed,1288086
+991145,Self Employed,Self Employed,5489330
+427731,Self Employed,Self Employed,7048975
+496369,Self Employed,Self Employed,2030105
+545217,Housewife,NULL,5980351
+957187,Self Employed,Self Employed,4839491
+677149,Self Employed,Self Employed,2740297
+884345,Self Employed,Self Employed,5319124
+407270,Self Employed,Self Employed,7094169
+358196,Self Employed,Self Employed,5369395
+575375,Self Employed,Self Employed,6653073
+763713,Self Employed,Self Employed,8553767
+461184,Self Employed,Self Employed,670690
+869281,Self Employed,Self Employed,7741685
+158194,Self Employed,Self Employed,6729801
+496836,Professional,Doc/Lawyer/Teacher/Arch/Engr,8734712
+312232,Self Employed,Self Employed,7583538
+348697,Self Employed,Self Employed,6122517
+688703,Self Employed,Self Employed,7893475
+247597,Self Employed,Self Employed,3177748
+799131,Self Employed,Self Employed,6713901
+546868,Self Employed,Self Employed,9158429
+406467,Self Employed,Self Employed,3850669
+367795,Self Employed,Self Employed,4433815
+566193,Self Employed,Self Employed,6866844
+952762,Housewife,NULL,6196056
+146973,Self Employed,Self Employed,7120055
+415502,Self Employed,Self Employed,3889334
+361054,Self Employed,Self Employed,5622238
+210250,Self Employed,Self Employed,6580919
+204905,Self Employed,Self Employed,2328592
+131132,Self Employed,Self Employed,8528610
+899689,Housewife,NULL,582089
+402968,Self Employed,Self Employed,4245269
+810696,Self Employed,Self Employed,540432
+987277,Self Employed,Self Employed,7934982
+540297,Self Employed,Self Employed,8330925
+881002,Self Employed,Self Employed,2826526
+458597,Self Employed,Self Employed,8942050
+809665,Self Employed,Self Employed,3083185
+210565,Self Employed,Self Employed,6791915
+929438,Self Employed,Self Employed,4856538
+768801,Self Employed,Self Employed,5744136
+591259,Self Employed,Self Employed,3830044
+773148,Self Employed,Self Employed,8861879
+774459,Self Employed,Self Employed,954089
+179827,Self Employed,Self Employed,2080000
+909225,Self Employed,Self Employed,1535848
+946941,Self Employed,Self Employed,4096036
+815717,Self Employed,Self Employed,9969220
+971398,Self Employed,Self Employed,5515844
+161765,Self Employed,Self Employed,6838885
+920005,Self Employed,Self Employed,227603
+181621,Self Employed,Self Employed,358514
+992143,Self Employed,Self Employed,4826773
+720156,Self Employed,Self Employed,8897001
+956952,Self Employed,Self Employed,9555160
+580063,Self Employed,Self Employed,4774978
+202598,Self Employed,Self Employed,3986338
+337370,Self Employed,Self Employed,9371749
+858917,Self Employed,Self Employed,5693344
+248066,Self Employed,Self Employed,7979454
+667804,Self Employed,Self Employed,7298283
+119416,Self Employed,Self Employed,3650712
+215083,Self Employed,Self Employed,8344242
+267034,Self Employed,Self Employed,2585168
+313509,Self Employed,Self Employed,913697
+901338,Self Employed,Self Employed,4196167
+825486,Self Employed,Self Employed,7138895
+362971,Self Employed,Self Employed,1532963
+593641,Self Employed,Self Employed,9674379
+465380,Self Employed,Self Employed,9655782
+765285,Self Employed,Self Employed,6836689
+521158,Self Employed,Self Employed,9366987
+122783,Self Employed,Self Employed,6640128
+386143,Self Employed,Self Employed,4511580
+422034,Self Employed,Self Employed,5676115
+789602,Self Employed,Self Employed,8507692
+171452,Self Employed,Self Employed,500358
+896735,Salaried,Agriculture land lord only,7777387
+427529,Self Employed,Self Employed,6981740
+770409,Self Employed,Self Employed,635583
+912362,Self Employed,Self Employed,8187886
+571155,Self Employed,Self Employed,5583442
+133826,Self Employed,Self Employed,875139
+882335,Self Employed,Self Employed,4917347
+500383,Professional,Doc/Lawyer/Teacher/Arch/Engr,1067849
+414863,Self Employed,Self Employed,1573080
+446277,Self Employed,Self Employed,1095778
+822836,Self Employed,Self Employed,5914902
+837344,Self Employed,Self Employed,1891554
+925839,Self Employed,Self Employed,3773733
+386827,Self Employed,Self Employed,8730032
+680027,Housewife,NULL,1274766
+462883,Self Employed,Self Employed,697576
+969361,Self Employed,Self Employed,1330807
+890529,Self Employed,Self Employed,5214338
+193927,Self Employed,Self Employed,6145202
+892951,Self Employed,Self Employed,4879162
+374654,Self Employed,Self Employed,3488212
+660734,Self Employed,Self Employed,3984605
+537893,Self Employed,Self Employed,5594424
+112584,Self Employed,Self Employed,3838140
+680365,Self Employed,Self Employed,2049631
+685278,Self Employed,Self Employed,6965687
+615977,Self Employed,Self Employed,881124
+572444,Self Employed,Self Employed,6764938
+469771,Self Employed,Self Employed,5786122
+854347,Self Employed,Self Employed,4097750
+536400,Professional,Doc/Lawyer/Teacher/Arch/Engr,8521574
+654734,Self Employed,Self Employed,8419792
+650818,Self Employed,Self Employed,785468
+488787,Self Employed,Self Employed,4090843
+244424,Self Employed,Self Employed,4167998
+918909,Self Employed,Self Employed,5112716
+923790,Self Employed,Self Employed,316967
+573044,Self Employed,Self Employed,3389347
+234302,Self Employed,Self Employed,7388337
+377646,Self Employed,Self Employed,4467216
+515287,Self Employed,Self Employed,5719371
+474318,Self Employed,Self Employed,8617102
+855480,Self Employed,Self Employed,8469877
+218415,Housewife,NULL,1470970
+468927,Self Employed,Self Employed,1857558
+839236,Self Employed,Self Employed,97970
+839558,Self Employed,Self Employed,3494266
+220489,Self Employed,Self Employed,7159044
+142303,Self Employed,Self Employed,6288193
+262568,Self Employed,Self Employed,3111701
+669257,Self Employed,Self Employed,2457297
+500198,Self Employed,Self Employed,2901756
+821711,Self Employed,Self Employed,9931989
+906844,Self Employed,Self Employed,7628451
+219606,Self Employed,Self Employed,1890998
+248540,Self Employed,Self Employed,6558526
+829735,Self Employed,Self Employed,3927742
+604849,Self Employed,Self Employed,6911392
+552098,Self Employed,Self Employed,1250580
+496681,Self Employed,Self Employed,4098317
+122979,Housewife,NULL,7434126
+708325,Self Employed,Self Employed,8233205
+993458,Self Employed,Self Employed,2795931
+575519,Self Employed,Self Employed,2579916
+211542,Self Employed,Self Employed,5194809
+788355,Self Employed,Self Employed,6671495
+210496,Self Employed,Self Employed,404666
+886337,Self Employed,Self Employed,1292672
+800961,Self Employed,Self Employed,8769391
+110990,Self Employed,Self Employed,4812639
+977266,Self Employed,Self Employed,3806996
+177624,Self Employed,Self Employed,4464286
+584076,Self Employed,Self Employed,1760674
+651389,Self Employed,Self Employed,4496889
+587650,Self Employed,Self Employed,9432724
+266343,Self Employed,Self Employed,7279053
+339802,Self Employed,Self Employed,1545833
+711472,Self Employed,Self Employed,5945327
+738467,Self Employed,Self Employed,901831
+808479,Self Employed,Self Employed,989598
+939066,Professional,Doc/Lawyer/Teacher/Arch/Engr,7004057
+161130,Self Employed,Self Employed,5556425
+950075,Housewife,NULL,4068622
+485892,Self Employed,Self Employed,8284907
+379439,Self Employed,Self Employed,3178235
+504811,Self Employed,Self Employed,4127544
+173719,Self Employed,Self Employed,4900008
+536868,Self Employed,Self Employed,720185
+408502,Self Employed,Self Employed,3179276
+488584,Self Employed,Self Employed,1683633
+897498,Self Employed,Self Employed,2783998
+603675,Self Employed,Self Employed,7247250
+237758,Self Employed,Self Employed,8163369
+547862,Self Employed,Self Employed,4543470
+868813,Self Employed,Self Employed,1115856
+966911,Self Employed,Self Employed,2189980
+170168,Self Employed,Self Employed,6758610
+638823,Self Employed,Self Employed,9976008
+434062,Self Employed,Self Employed,4282222
+614680,Self Employed,Self Employed,3515327
+849869,Self Employed,Self Employed,2958791
+425262,Self Employed,Self Employed,2649104
+174673,Self Employed,Self Employed,4870207
+872289,Self Employed,Self Employed,3550227
+977923,Self Employed,Self Employed,1677846
+867214,Self Employed,Self Employed,4608142
+386636,Self Employed,Self Employed,7697243
+421000,Self Employed,Self Employed,3892931
+801359,Self Employed,Self Employed,3525445
+664751,Housewife,NULL,747115
+815840,Self Employed,Self Employed,5803228
+234438,Self Employed,Self Employed,8250172
+704628,Self Employed,Self Employed,6433870
+164308,Self Employed,Self Employed,844727
+181963,Self Employed,Self Employed,583628
+983490,Self Employed,Self Employed,7819322
+231906,Self Employed,Self Employed,8439416
+885529,Self Employed,Self Employed,9278449
+695005,Self Employed,Self Employed,28453
+993222,Self Employed,Self Employed,8141887
+760881,Salaried,Agriculture land lord only,9099691
+693864,Self Employed,Self Employed,9585312
+106597,Self Employed,Self Employed,2995909
+277929,Self Employed,Self Employed,8026171
+489458,Self Employed,Self Employed,4729419
+608948,Self Employed,Self Employed,1080715
+425336,Self Employed,Self Employed,3595125
+228892,Self Employed,Self Employed,7273231
+670098,Self Employed,Self Employed,2409214
+551344,Professional,Doc/Lawyer/Teacher/Arch/Engr,2067136
+255361,Self Employed,Self Employed,1950673
+788863,Self Employed,Self Employed,698595
+415058,Self Employed,Self Employed,2078790
+217967,Self Employed,Self Employed,7392174
+881816,Self Employed,Self Employed,4807576
+647027,Self Employed,Self Employed,2497744
+426568,Self Employed,Self Employed,4813746
+803554,Self Employed,Self Employed,2430023
+925610,Self Employed,Self Employed,4022775
+151960,Self Employed,Self Employed,8473985
+351656,Salaried,Agriculture land lord only,8962199
+945628,Self Employed,Self Employed,7383771
+410559,Self Employed,Self Employed,5353730
+244463,Self Employed,Self Employed,6949879
+885288,Self Employed,Self Employed,7152915
+181025,Self Employed,Self Employed,6858861
+371761,Self Employed,Self Employed,8523391
+380546,Self Employed,Self Employed,4299366
+337315,Self Employed,Self Employed,5675767
+724737,Self Employed,Self Employed,2941153
+595833,Self Employed,Self Employed,8031714
+265311,Self Employed,Self Employed,8263954
+573670,Self Employed,Self Employed,7119903
+959718,Self Employed,Self Employed,9755805
+630107,Self Employed,Self Employed,3078074
+891853,Salaried,Agriculture land lord only,1463425
+783806,Self Employed,Self Employed,2939557
+906286,Self Employed,Self Employed,4802146
+924748,Self Employed,Self Employed,2718948
+195266,Self Employed,Self Employed,4951558
+489670,Self Employed,Self Employed,9555284
+299508,Self Employed,Self Employed,6486307
+978013,Self Employed,Self Employed,8117317
+689288,Self Employed,Self Employed,1710133
+504415,Self Employed,Self Employed,5591201
+490595,Self Employed,Self Employed,2925027
+787730,Self Employed,Self Employed,681688
+110004,Self Employed,Self Employed,8877804
+835494,Self Employed,Self Employed,7720368
+633601,Self Employed,Self Employed,8953645
+748898,Self Employed,Self Employed,5485849
+846876,Self Employed,Self Employed,3872349
+462336,Self Employed,Self Employed,3172763
+327436,Self Employed,Self Employed,9019682
+194684,Self Employed,Self Employed,9848490
+731506,Self Employed,Self Employed,2511411
+711220,Self Employed,Self Employed,86620
+815245,Salaried,Agriculture land lord only,6930533
+903496,Self Employed,Self Employed,2966649
+217592,Self Employed,Self Employed,1767843
+983025,Self Employed,Self Employed,9567811
+886943,Professional,Doc/Lawyer/Teacher/Arch/Engr,3813555
+128562,Self Employed,Self Employed,1039706
+346127,Self Employed,Self Employed,6543616
+711652,Self Employed,Self Employed,496649
+560148,Self Employed,Self Employed,9579761
+480328,Self Employed,Self Employed,2412960
+852963,Self Employed,Self Employed,7812282
+601852,Self Employed,Self Employed,859160
+351392,Self Employed,Self Employed,5609580
+969183,Self Employed,Self Employed,8108346
+376996,Self Employed,Self Employed,2298342
+321628,Self Employed,Self Employed,6118103
+227068,Self Employed,Self Employed,4386713
+750777,Self Employed,Self Employed,4252397
+706140,Self Employed,Self Employed,7657605
+512714,Self Employed,Self Employed,832805
+266204,Self Employed,Self Employed,7835618
+499624,Self Employed,Self Employed,8740921
+972592,Self Employed,Self Employed,5947440
+569132,Self Employed,Self Employed,3333818
+321418,Self Employed,Self Employed,9760117
+199850,Self Employed,Self Employed,9930539
+341097,Salaried,Agriculture land lord only,9471714
+993919,Self Employed,Self Employed,8749092
+392834,Self Employed,Self Employed,6877433
+557319,Self Employed,Self Employed,4464012
+538428,Self Employed,Self Employed,7869324
+636595,Self Employed,Self Employed,710876
+783857,Self Employed,Self Employed,4799975
+604800,Self Employed,Self Employed,7973295
+433645,Self Employed,Self Employed,5236509
+376238,Self Employed,Self Employed,5131331
+869581,Self Employed,Self Employed,1957518
+831372,Self Employed,Self Employed,4145359
+986713,Self Employed,Self Employed,4003749
+189322,Self Employed,Self Employed,6125481
+329914,Self Employed,Self Employed,2606383
+304427,Self Employed,Self Employed,9263039
+636647,Self Employed,Self Employed,4149522
+267139,Self Employed,Self Employed,2959638
+190463,Self Employed,Self Employed,6632502
+431166,Self Employed,Self Employed,7195474
+319582,Self Employed,Self Employed,2537379
+482180,Self Employed,Self Employed,9014252
+786235,Self Employed,Self Employed,4947585
+781431,Self Employed,Self Employed,1785971
+621127,Self Employed,Self Employed,3924013
+593787,Self Employed,Self Employed,5421543
+471319,Self Employed,Self Employed,21160
+822429,Self Employed,Self Employed,4057931
+703372,Self Employed,Self Employed,4347681
+714308,Self Employed,Self Employed,8728286
+614539,Self Employed,Self Employed,1262591
+179581,Self Employed,Self Employed,1394875
+686540,Self Employed,Self Employed,1233401
+579775,Self Employed,Self Employed,8809586
+134303,Self Employed,Self Employed,3635646
+357625,Self Employed,Self Employed,8307574
+399704,Self Employed,Self Employed,7133323
+984288,Self Employed,Self Employed,3912231
+644701,Self Employed,Self Employed,8892906
+850355,Self Employed,Self Employed,4486385
+420384,Self Employed,Self Employed,460797
+176073,Self Employed,Self Employed,4245731
+228949,Self Employed,Self Employed,1168306
+455325,Self Employed,Self Employed,2778927
+264887,Self Employed,Self Employed,4528830
+184432,Self Employed,Self Employed,3162682
+718176,Self Employed,Self Employed,4367297
+565082,Self Employed,Self Employed,7591770
+199569,Self Employed,Self Employed,4904059
+990693,Self Employed,Self Employed,9435268
+377767,Self Employed,Self Employed,9180213
+478612,Self Employed,Self Employed,5514509
+153998,Self Employed,Self Employed,7137926
+643048,Self Employed,Self Employed,6204104
+958383,Professional,Doc/Lawyer/Teacher/Arch/Engr,1740385
+363580,Self Employed,Self Employed,4174720
+353511,Self Employed,Self Employed,4328777
+336269,Self Employed,Self Employed,2106690
+850403,Housewife,NULL,3572043
+372304,Self Employed,Self Employed,3399423
+253128,Self Employed,Self Employed,6823968
+988406,Professional,Doc/Lawyer/Teacher/Arch/Engr,1913924
+517911,Self Employed,Self Employed,5789115
+485631,Self Employed,Self Employed,4759232
+575292,Self Employed,Self Employed,3479047
+370848,Self Employed,Self Employed,499366
+159138,Self Employed,Self Employed,516203
+412041,Self Employed,Self Employed,4198578
+618359,Self Employed,Self Employed,2214230
+949461,Self Employed,Self Employed,6582026
+315919,Self Employed,Self Employed,1154440
+334992,Self Employed,Self Employed,3475345
+955663,Self Employed,Self Employed,3247028
+755002,Self Employed,Self Employed,2221020
+825449,Self Employed,Self Employed,6115195
+477602,Self Employed,Self Employed,6270278
+962721,Self Employed,Self Employed,4266645
+274857,Self Employed,Self Employed,9111180
+663495,Self Employed,Self Employed,3482844
+567609,Self Employed,Self Employed,4651778
+887634,Self Employed,Self Employed,7929523
+867926,Self Employed,Self Employed,9930358
+816526,Self Employed,Self Employed,7961396
+642963,Self Employed,Self Employed,7517616
+562854,Self Employed,Self Employed,462927
+637489,Housewife,NULL,3373955
+468658,Self Employed,Self Employed,5618039
+785258,Self Employed,Self Employed,9563292
+424793,Self Employed,Self Employed,6320827
+636704,Housewife,NULL,5217492
+861840,Self Employed,Self Employed,2100392
+834284,Self Employed,Self Employed,8590522
+337290,Self Employed,Self Employed,5909945
+285979,Self Employed,Self Employed,8587697
+141582,Self Employed,Self Employed,819204
+311463,Self Employed,Self Employed,789236
+307395,Self Employed,Self Employed,7430538
+715569,Self Employed,Self Employed,304032
+337941,Self Employed,Self Employed,8649950
+928756,Self Employed,Self Employed,1865589
+638405,Self Employed,Self Employed,9065162
+818480,Self Employed,Self Employed,4294893
+248975,Self Employed,Self Employed,2848282
+601539,Self Employed,Self Employed,3095489
+563976,Self Employed,Self Employed,4970787
+582408,Professional,Doc/Lawyer/Teacher/Arch/Engr,8364722
+655257,Self Employed,Self Employed,8260826
+321615,Self Employed,Self Employed,6237442
+203876,Self Employed,Self Employed,3560343
+477590,Self Employed,Self Employed,23090
+685487,Self Employed,Self Employed,3709332
+826072,Self Employed,Self Employed,6827353
+296761,Self Employed,Self Employed,7174612
+271603,Self Employed,Self Employed,6131084
+862420,Self Employed,Self Employed,5448290
+813942,Self Employed,Self Employed,2534998
+148045,Self Employed,Self Employed,6434755
+171374,Self Employed,Self Employed,3812839
+213942,Self Employed,Self Employed,6085211
+295171,Self Employed,Self Employed,5908367
+372309,Self Employed,Self Employed,8605039
+349060,Self Employed,Self Employed,1065348
+459137,Self Employed,Self Employed,5330934
+698461,Self Employed,Self Employed,6717664
+854348,Self Employed,Self Employed,5749718
+429972,Self Employed,Self Employed,654323
+360502,Self Employed,Self Employed,4026105
+916052,Self Employed,Self Employed,8283945
+982600,Self Employed,Self Employed,2333471
+752810,Self Employed,Self Employed,9301982
+575479,Self Employed,Self Employed,3674832
+416129,Self Employed,Self Employed,1350590
+346346,Self Employed,Self Employed,9678645
+485365,Self Employed,Self Employed,8776126
+184446,Self Employed,Self Employed,9395049
+280907,Housewife,NULL,6840272
+666297,Self Employed,Self Employed,8254448
+489661,Self Employed,Self Employed,3000060
+744126,Salaried,Agriculture land lord only,2724998
+545123,Self Employed,Self Employed,4062660
+658004,Self Employed,Self Employed,7411749
+340999,Self Employed,Self Employed,4704671
+117101,Self Employed,Self Employed,7435121
+462270,Self Employed,Self Employed,5022459
+797991,Self Employed,Self Employed,9759041
+746369,Self Employed,Self Employed,3667037
+972145,Self Employed,Self Employed,2226809
+957532,Self Employed,Self Employed,9825450
+822187,Self Employed,Self Employed,4828485
+321276,Self Employed,Self Employed,3524220
+640069,Self Employed,Self Employed,2722395
+743267,Self Employed,Self Employed,4652738
+988139,Self Employed,Self Employed,4311831
+578264,Self Employed,Self Employed,6210621
+224018,Self Employed,Self Employed,9902595
+957091,Self Employed,Self Employed,4233676
+280555,Self Employed,Self Employed,8163423
+333622,Professional,Doc/Lawyer/Teacher/Arch/Engr,2226949
+966886,Self Employed,Self Employed,9636639
+445941,Self Employed,Self Employed,1370740
+436854,Self Employed,Self Employed,5121642
+790887,Self Employed,Self Employed,4498898
+357636,Self Employed,Self Employed,904980
+549673,Self Employed,Self Employed,3814737
+447221,Self Employed,Self Employed,3261822
+414669,Self Employed,Self Employed,6865870
+401961,Self Employed,Self Employed,7955212
+792939,Self Employed,Self Employed,3705448
+392408,Self Employed,Self Employed,1094966
+438939,Self Employed,Self Employed,6235191
+764073,Self Employed,Self Employed,2639924
+312877,Salaried,Agriculture land lord only,4565677
+158743,Self Employed,Self Employed,5870663
+237957,Self Employed,Self Employed,8048058
+433632,Self Employed,Self Employed,2406299
+777434,Self Employed,Self Employed,7451071
+780386,Salaried,Agriculture land lord only,1849191
+105781,Self Employed,Self Employed,7887282
+728445,Self Employed,Self Employed,4956447
+787418,Self Employed,Self Employed,2334714
+285845,Self Employed,Self Employed,4579523
+727235,Self Employed,Self Employed,9595052
+497784,Self Employed,Self Employed,5891454
+801707,Self Employed,Self Employed,817386
+676021,Self Employed,Self Employed,8359298
+123903,Self Employed,Self Employed,7144250
+581410,Self Employed,Self Employed,5444628
+443082,Self Employed,Self Employed,3288443
+657340,Self Employed,Self Employed,3173310
+994439,Self Employed,Self Employed,9467967
+329165,Self Employed,Self Employed,8927208
+704236,Self Employed,Self Employed,500199
+509786,Self Employed,Self Employed,4080687
+434806,Self Employed,Self Employed,6637336
+352079,Self Employed,Self Employed,5118413
+469180,Self Employed,Self Employed,4510983
+335818,Self Employed,Self Employed,3126425
+473515,Self Employed,Self Employed,3732815
+218558,Self Employed,Self Employed,1154876
+693558,Self Employed,Self Employed,4750695
+165809,Self Employed,Self Employed,155867
+526367,Self Employed,Self Employed,5007750
+223117,Self Employed,Self Employed,8629126
+587104,Self Employed,Self Employed,902168
+281311,Self Employed,Self Employed,5682498
+661833,Self Employed,Self Employed,8953832
+470303,Self Employed,Self Employed,2506223
+338317,Self Employed,Self Employed,8992988
+330189,Self Employed,Self Employed,201542
+629709,Self Employed,Self Employed,4093101
+901392,Self Employed,Self Employed,7709212
+609261,Self Employed,Self Employed,748773
+337563,Self Employed,Self Employed,5101888
+283148,Self Employed,Self Employed,4644710
+679663,Self Employed,Self Employed,2464541
+610099,Self Employed,Self Employed,2211965
+675029,Self Employed,Self Employed,2085272
+422379,Self Employed,Self Employed,998961
+610242,Self Employed,Self Employed,8491468
+555200,Self Employed,Self Employed,2659463
+853246,Self Employed,Self Employed,7045997
+932894,Self Employed,Self Employed,491056
+357078,Self Employed,Self Employed,1513510
+716914,Self Employed,Self Employed,6851312
+980411,Self Employed,Self Employed,6457202
+758552,Self Employed,Self Employed,6350600
+104186,Self Employed,Self Employed,2097298
+788764,Self Employed,Self Employed,3166847
+496748,Self Employed,Self Employed,7713158
+924013,Self Employed,Self Employed,9801493
+132903,Self Employed,Self Employed,3245687
+954477,Salaried,Agriculture land lord only,4906472
+877279,Self Employed,Self Employed,6207880
+434429,Self Employed,Self Employed,7677811
+146328,Salaried,Agriculture land lord only,405837
+620924,Self Employed,Self Employed,8550223
+226913,Self Employed,Self Employed,4372164
+761260,Self Employed,Self Employed,3019331
+592618,Self Employed,Self Employed,2711686
+238616,Self Employed,Self Employed,141759
+825183,Self Employed,Self Employed,4832255
+987228,Self Employed,Self Employed,3878926
+303385,Self Employed,Self Employed,3188725
+106057,Self Employed,Self Employed,2627368
+308091,Self Employed,Self Employed,6066052
+443377,Self Employed,Self Employed,3155879
+691418,Self Employed,Self Employed,5434462
+683237,Self Employed,Self Employed,4907186
+955532,Self Employed,Self Employed,1100809
+763083,Self Employed,Self Employed,2288333
+996881,Self Employed,Self Employed,6380825
+530244,Self Employed,Self Employed,5751125
+350654,Self Employed,Self Employed,5970523
+455599,Self Employed,Self Employed,7555083
+819489,Self Employed,Self Employed,2168881
+299088,Self Employed,Self Employed,2270838
+638238,Self Employed,Self Employed,2222131
+135948,Self Employed,Self Employed,5563506
+708571,Self Employed,Self Employed,823389
+744545,Self Employed,Self Employed,5782054
+550464,Self Employed,Self Employed,1040353
+305617,Self Employed,Self Employed,7980403
+283694,Self Employed,Self Employed,1438165
+296826,Self Employed,Self Employed,9559955
+863509,Self Employed,Self Employed,5242446
+431786,Self Employed,Self Employed,7136493
+571896,Self Employed,Self Employed,2583230
+375649,Self Employed,Self Employed,6484337
+962380,Self Employed,Self Employed,9898913
+768736,Self Employed,Self Employed,6131251
+300960,Self Employed,Self Employed,5371984
+440850,Self Employed,Self Employed,5636259
+891337,Self Employed,Self Employed,2874843
+154395,Self Employed,Self Employed,7501246
+981711,Self Employed,Self Employed,1830346
+601848,Self Employed,Self Employed,1523951
+231807,Self Employed,Self Employed,5384732
+330296,Self Employed,Self Employed,8039170
+549719,Self Employed,Self Employed,141409
+408856,Self Employed,Self Employed,6128205
+938119,Self Employed,Self Employed,8321380
+948109,Self Employed,Self Employed,5095224
+575754,Self Employed,Self Employed,6139915
+986807,Self Employed,Self Employed,9159125
+167304,Self Employed,Self Employed,8229411
+339048,Self Employed,Self Employed,5578367
+813740,Professional,Doc/Lawyer/Teacher/Arch/Engr,7809696
+152877,Self Employed,Self Employed,7421702
+522663,Self Employed,Self Employed,2618736
+702724,Self Employed,Self Employed,9442283
+115143,Self Employed,Self Employed,4621995
+456793,Self Employed,Self Employed,3675999
+301495,Self Employed,Self Employed,9126850
+123357,Self Employed,Self Employed,6947833
+858004,Self Employed,Self Employed,4496924
+601345,Self Employed,Self Employed,633905
+167214,Self Employed,Self Employed,1834984
+125693,Self Employed,Self Employed,4885229
+553693,Self Employed,Self Employed,216965
+878984,Self Employed,Self Employed,6298593
+569939,Self Employed,Self Employed,3390696
+574387,Self Employed,Self Employed,8748075
+526953,Self Employed,Self Employed,2084224
+278018,Self Employed,Self Employed,4638228
+917850,Self Employed,Self Employed,4389988
+248197,Business Owner,Self Employed,784506
+872282,Business Owner,Self Employed,1871274
+107751,Business Owner,Self Employed,7004713
+473014,Business Owner,Self Employed,473864
+226157,Business Owner,Self Employed,6076452
+735571,Business Owner,Self Employed,1989359
+297051,Business Owner,Self Employed,5878224
+287646,Business Owner,Self Employed,1693178
+350884,Business Owner,Self Employed,8935687
+311285,Business Owner,Self Employed,5349523
+435034,Business Owner,Self Employed,399929
+698435,Agriculturist,Self Employed,4808041
+290818,Agriculturist,Self Employed,9038698
+412934,Agriculturist,Self Employed,112031
+546561,Agriculturist,Self Employed,1743077
+743228,Agriculturist,Self Employed,9544700
+723779,Agriculturist,Self Employed,3768452
+213829,Agriculturist,Self Employed,3912290
+827849,Agriculturist,Self Employed,6339558
+837274,Agriculturist,Self Employed,18720
+649740,Agriculturist,Self Employed,8219503
+825121,Agriculturist,Self Employed,6990669
